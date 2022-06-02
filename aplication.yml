@@ -11,6 +11,8 @@ management:
       exposure:
         include: health,info 
 info:
+  author: David .s
+  mail: davidsilvafs29@gmail.com
 server:
-  port: ${PORT:8080}
-message: Teste
+  port: ${PORT:9999}
+message: Generic
